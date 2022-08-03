@@ -24,14 +24,3 @@ const Layout = ({ pageTitle, children }) => {
 };
 
 export default Layout;
-
-// const Layout = ({ pageTitle, children }) => {
-//     ...
-//   }
-//   is the same as
-
-//   const Layout = (props) => {
-//     const pageTitle = props.pageTitle
-//     const children = props.children
-//     ...
-//   }
